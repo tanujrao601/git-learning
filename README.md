@@ -9,4 +9,10 @@ This is my first feature branch.
 ## Profile Feature
 - Profile page added
 
+<<<<<<< HEAD
 Master branch has a different change
+=======
+Testing staging area
+
+Master and conflict-demo will disagree here
+>>>>>>> conflict-demo
