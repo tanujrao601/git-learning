@@ -16,3 +16,5 @@ Testing staging area
 
 Master and conflict-demo will disagree here
 >>>>>>> conflict-demo
+
+Master update for rebase
