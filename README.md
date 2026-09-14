@@ -17,4 +17,8 @@ Testing staging area
 Master and conflict-demo will disagree here
 >>>>>>> conflict-demo
 
+<<<<<<< HEAD
 Master update for rebase
+=======
+Rebase demo - commit 1
+>>>>>>> 466d2ed (Add rebase demo commit 1)
