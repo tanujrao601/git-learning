@@ -28,3 +28,7 @@ Interactive rebase - commit 1
 Interactive rebase - commit 2
 
 Interactive rebase - commit 3
+
+Amend practice
+
+Forgotten change
