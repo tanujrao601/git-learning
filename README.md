@@ -32,3 +32,5 @@ Interactive rebase - commit 3
 Amend practice
 
 Forgotten change
+
+Cherry-pick practice change
